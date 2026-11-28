@@ -1,0 +1,75 @@
+[
+  {
+    "Author": "The Combat Reborn Team",
+    "Name": "Rotation Solver Reborn (Benji)",
+    "InternalName": "RotationSolver",
+    "AssemblyVersion": "7.5.8.1407",
+    "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
+    "Tags": [
+      "combat",
+      "rotation",
+      "auto",
+      "solver",
+      "pve",
+      "pvp"
+    ],
+    "CategoryTags": [
+      "jobs"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
+    "Punchline": "Analyses combat information every frame and finds the best action.",
+    "AcceptsFeedback": false,
+    "DownloadLinkInstall": "https://gist.githubusercontent.com/benji1881/67f683602543d87f9fc0061934a6c2ab/raw/RotationSolver-7.5.8.1407.zip",
+    "DownloadLinkUpdate": "https://gist.githubusercontent.com/benji1881/67f683602543d87f9fc0061934a6c2ab/raw/RotationSolver-7.5.8.1407.zip",
+    "DownloadLinkTesting": "https://gist.githubusercontent.com/benji1881/67f683602543d87f9fc0061934a6c2ab/raw/RotationSolver-7.5.8.1407.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadCount": 0,
+    "LastUpdate": 1795899236
+  },
+  {
+    "Author": "The Combat Reborn Team",
+    "Name": "BossMod Reborn (Benji)",
+    "InternalName": "BossModReborn",
+    "AssemblyVersion": "7.5.8.1105",
+    "Description": "A bunch of utilities to simplify boss mechanics",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
+    "Tags": [
+      "combat",
+      "boss",
+      "dodge",
+      "mechanics",
+      "pve",
+      "raids",
+      "trials"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image1.png",
+      "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
+      "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
+    ],
+    "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
+    "Punchline": "Don't fail at raid mechanics anymore",
+    "AcceptsFeedback": false,
+    "DownloadLinkInstall": "https://gist.githubusercontent.com/benji1881/67f683602543d87f9fc0061934a6c2ab/raw/BossModReborn-7.5.8.1105.zip",
+    "DownloadLinkUpdate": "https://gist.githubusercontent.com/benji1881/67f683602543d87f9fc0061934a6c2ab/raw/BossModReborn-7.5.8.1105.zip",
+    "DownloadLinkTesting": "https://gist.githubusercontent.com/benji1881/67f683602543d87f9fc0061934a6c2ab/raw/BossModReborn-7.5.8.1105.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadCount": 0,
+    "LastUpdate": 1795874339
+  }
+]
